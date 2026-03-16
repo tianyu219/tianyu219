@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=580&lines=Hello world!;tianyu219;AI;仓库" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&weight=500&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=580&lines=Hello+world!;tianyu219" />
 </p>
 
 <br>
