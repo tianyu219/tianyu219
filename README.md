@@ -19,4 +19,6 @@
 </div>
 
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=tianyu219&theme=react-dark)
 
+![snake](https://raw.githubusercontent.com/tianyu219/tianyu219/output/github-contribution-grid-snake.svg)
