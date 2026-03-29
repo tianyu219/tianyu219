@@ -4,14 +4,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tianyu219&theme=dracula&no-frame=true&margin-w=15&title_color=00ff9d&text_color=ffffff&icon_color=00ff9d&bg_color=0d1117&row=1&column=7" />
-</div>
-
-<br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tianyu219&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&line_height=28" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tianyu219&theme=dracula&hide_border=true&date_format=j+M%5B+D%5D&fire=00ff9d&currStreakNum=00ff9d" />
 </p>
 
