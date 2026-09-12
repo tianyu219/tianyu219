@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&weight=500&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=580&lines=Hello+world!;tianyu219" />
 </p>
 
@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tianyu219&label=Profile%20views&color=00ff9d&style=flat-square">
 </div>
-
+-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tianyu219/tianyu219/output/github-contribution-grid-snake-dark.svg" />
